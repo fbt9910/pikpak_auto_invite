@@ -1,4 +1,5 @@
 name: pikpak_auto_invite
+
 on:
   push:
     branches: [ main ]
